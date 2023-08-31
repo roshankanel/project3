@@ -29,6 +29,16 @@ NFTs, or Non-Fungible Tokens, are a type of digital asset that represent ownersh
 ## Getting Started
 
 To get started with the Metavault project, follow these steps:
- 1. For this project make sure Ganache and IPFS desktop is runnning.
- 2. Open gp3_3.py and run it in streamlit.
- 3. Follow the instruction in the screen
+ 1. Install IPFS Desktop
+ 2. Install Remix Desktop
+ 3. Install Ganache Desktop
+ 4. Install all libraries required (detailed in requirements.txt) <br />
+        a. If you need to adjust your environment for this or any development project we highly recommend using the following method to take an environment snapshot: <br />
+                         "pip freeze > requirements.txt" <br />
+        b. This stores your current installed libraries and versions into a requirements.txt file to ensure exact restoration of your development environment in the event of any issues,
+           rebuilds or replication requirements. <br />
+ 6. Ensure all the files here are in your runtime environment, all the .sol files are from the ERC721 standard and dependencies required.
+ 7. Run your IPFS, Remix and Ganache Desktop apps
+ 8. Run the python file with "streamlit run *.py"
+ 9. If uploading NFTs, copy the IPFS (or CID) from the desktop app
+ 10. Follow the instruction in the streamlit app
