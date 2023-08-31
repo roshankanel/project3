@@ -34,7 +34,7 @@ To get started with the Metavault project, follow these steps:
  3. Install Ganache Desktop
  4. Install all libraries required (detailed in requirements.txt) <br />
         a. Once you have a working environment for any development project we highly recommend using the following method to take an environment snapshot: <br />
-                 * "pip freeze > requirements.txt" <br />
+                         "pip freeze > requirements.txt" <br />
         b. This stores your current installed libraries and versions into a requirements.txt file to ensure exact restoration of your development environment in the event of any issues,
            rebuilt or replication. <br />
  6. Ensure all the files here are in your runtime environment
