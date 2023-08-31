@@ -47,7 +47,7 @@ To get started with the Metavault project, follow these steps:
 
 The Metavault is a fully functional NFT marketplace application which allows the users to deploy the smart contract and to create, purchase and exchange ERC721-standard NFTs with unique images. It is connected with Ganache accounts to be able to demonstrate adn test the functionality of its features. The entire app can be operated using Streamlit.
 
-![Metavault Marketplace](Final_Project.png)
+![Metavault Marketplace](Final_Project_1.png)
 
 
 
