@@ -1,4 +1,4 @@
-# Metavault Project - GitLab Repository Readme
+# Metavault
 
 Welcome to the Metavault project's GitLab repository! This repository contains code and resources related to the exciting world of NFTs, Solidity, Remix, and SolcX. Below, you'll find a brief overview of each of these components and how they contribute to the Metavault project.
 
