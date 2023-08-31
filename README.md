@@ -21,3 +21,7 @@ NFTs, or Non-Fungible Tokens, are a type of digital asset that represent ownersh
 ## SolcX
 
 **SolcX** is the Solidity compiler that aids in converting human-readable Solidity code into bytecode that can be executed on the Ethereum Virtual Machine (EVM). It helps in transforming the smart contract code into a format that can be understood and executed by the Ethereum network. This compiler is an essential tool in the development and deployment of our NFT-related smart contracts.
+
+## Ganache
+
+**Ganache** is a personal blockchain for Ethereum development that you can use to deploy contracts, develop your applications, and run tests. It provides a local Ethereum blockchain that you can use for development and testing purposes, allowing you to avoid the costs and complexities associated with deploying contracts on the main Ethereum network.
