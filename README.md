@@ -25,3 +25,7 @@ NFTs, or Non-Fungible Tokens, are a type of digital asset that represent ownersh
 ## Ganache
 
 **Ganache** is a personal blockchain for Ethereum development that you can use to deploy contracts, develop your applications, and run tests. It provides a local Ethereum blockchain that you can use for development and testing purposes, allowing you to avoid the costs and complexities associated with deploying contracts on the main Ethereum network.
+
+## Getting Started
+
+To get started with the Metavolt project, follow these steps:
