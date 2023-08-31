@@ -1,10 +1,10 @@
-# Metavolt Project - GitLab Repository Readme
+# Metavault Project - GitLab Repository Readme
 
-Welcome to the Metavolt project's GitLab repository! This repository contains code and resources related to the exciting world of NFTs, Solidity, Remix, and SolcX. Below, you'll find a brief overview of each of these components and how they contribute to the Metavolt project.
+Welcome to the Metavault project's GitLab repository! This repository contains code and resources related to the exciting world of NFTs, Solidity, Remix, and SolcX. Below, you'll find a brief overview of each of these components and how they contribute to the Metavault project.
 
-## About the Metavolt Project
+## About the Metavault Project
 
-The **Metavolt** project is a blockchain-based endeavor that focuses on creating and managing Non-Fungible Tokens (NFTs) using the Ethereum blockchain. NFTs are unique digital assets that have gained significant attention for their ability to represent ownership of digital and physical items, digital art, collectibles, virtual real estate, and more.
+The **Metavault** project is a blockchain-based endeavor that focuses on creating and managing Non-Fungible Tokens (NFTs) using the Ethereum blockchain. NFTs are unique digital assets that have gained significant attention for their ability to represent ownership of digital and physical items, digital art, collectibles, virtual real estate, and more.
 
 ## NFTs (Non-Fungible Tokens)
 
@@ -12,7 +12,7 @@ NFTs, or Non-Fungible Tokens, are a type of digital asset that represent ownersh
 
 ## Solidity
 
-**Solidity** is a high-level programming language specifically designed for writing smart contracts on the Ethereum blockchain. Smart contracts are self-executing contracts with the terms of the agreement directly written into code. In the context of the Metavolt project, Solidity is used to create the smart contracts that define the behavior and properties of our NFTs.
+**Solidity** is a high-level programming language specifically designed for writing smart contracts on the Ethereum blockchain. Smart contracts are self-executing contracts with the terms of the agreement directly written into code. In the context of the Metavault project, Solidity is used to create the smart contracts that define the behavior and properties of our NFTs.
 
 ## Remix
 
@@ -28,4 +28,4 @@ NFTs, or Non-Fungible Tokens, are a type of digital asset that represent ownersh
 
 ## Getting Started
 
-To get started with the Metavolt project, follow these steps:
+To get started with the Metavault project, follow these steps:
