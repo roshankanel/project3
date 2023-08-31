@@ -42,3 +42,12 @@ To get started with the Metavault project, follow these steps:
  8. Run the python file with "streamlit run *.py"
  9. If uploading NFTs, copy the IPFS (or CID) from the desktop app
  10. Follow the instruction in the streamlit app
+
+## End Product
+
+The Metavault is a fully functional NFT marketplace application which allows the users to deploy the smart contract and to create, purchase and exchange ERC721-standard NFTs with unique images. It is connected with Ganache accounts to be able to demonstrate adn test the functionality of its features. The entire app can be operated using Streamlit.
+
+![Metavault Marketplace](Final_Project.png)
+
+
+
