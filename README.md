@@ -29,3 +29,6 @@ NFTs, or Non-Fungible Tokens, are a type of digital asset that represent ownersh
 ## Getting Started
 
 To get started with the Metavault project, follow these steps:
+ 1. For this project make sure Ganache and IPFS desktop is runnning.
+ 2. Open gp3_3.py and run it in streamlit.
+ 3. Follow the instruction in the screen
