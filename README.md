@@ -37,7 +37,7 @@ To get started with the Metavault project, follow these steps:
                          "pip freeze > requirements.txt" <br />
         b. This stores your current installed libraries and versions into a requirements.txt file to ensure exact restoration of your development environment in the event of any issues,
            rebuilds or replication requirements. <br />
- 6. Ensure all the files here are in your runtime environment
+ 6. Ensure all the files here are in your runtime environment, all the .sol files are from the ERC721 standard and dependencies required.
  7. Run your IPFS, Remix and Ganache Desktop apps
  8. Run the python file with "streamlit run *.py"
  9. If uploading NFTs, copy the IPFS (or CID) from the desktop app
