@@ -33,10 +33,10 @@ To get started with the Metavault project, follow these steps:
  2. Install Remix Desktop
  3. Install Ganache Desktop
  4. Install all libraries required (detailed in requirements.txt) <br />
-        a. Once you have a working environment for any development project we highly recommend using the following method to take an environment snapshot: <br />
+        a. If you need to adjust your environment for this or any development project we highly recommend using the following method to take an environment snapshot: <br />
                          "pip freeze > requirements.txt" <br />
         b. This stores your current installed libraries and versions into a requirements.txt file to ensure exact restoration of your development environment in the event of any issues,
-           rebuilt or replication. <br />
+           rebuilds or replication requirements. <br />
  6. Ensure all the files here are in your runtime environment
  7. Run your IPFS, Remix and Ganache Desktop apps
  8. Run the python file with "streamlit run *.py"
